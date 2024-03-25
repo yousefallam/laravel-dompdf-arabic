@@ -1,5 +1,5 @@
 {
-    "name": "yousefallam/laravel-dompdf-arabic",
+    "name": "yousefallam/laravel-dopdf-arabic",
     "description": "A DOMPDF Wrapper for Laravel with arabic language included",
     "license": "MIT",
     "keywords": ["laravel", "dompdf", "pdf", "arabic", "dompdf arabic", "arabic laravel pdf"],
