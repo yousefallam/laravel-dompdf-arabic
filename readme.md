@@ -1,4 +1,4 @@
-## DOMPDF Wrapper for Laravel with arabic included
+## PDF Wrapper for Laravel with arabic included
 
 #### Merging Two Packages
 ## [Laravel-dompdf](https://github.com/barryvdh/laravel-dompdf)
