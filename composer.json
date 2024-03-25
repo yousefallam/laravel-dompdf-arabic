@@ -1,6 +1,6 @@
 {
     "name": "yousefallam/laravel-pdf-arabic",
-    "description": "A DOMPDF Wrapper for Laravel with arabic language included",
+    "description": "A PDF Wrapper for Laravel with arabic language included",
     "license": "MIT",
     "keywords": ["laravel", "dompdf", "pdf", "arabic", "arabic pdf","ar_php"],
     "authors": [
